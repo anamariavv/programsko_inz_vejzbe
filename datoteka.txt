@@ -1,4 +1,2 @@
 Ovdje je neki tekst
-Ovo je prvi dodatni tekst
-Ovo je drudi dodatni tekst
-ovo je tekst na grani1
+neme vise dodatnog teksta
