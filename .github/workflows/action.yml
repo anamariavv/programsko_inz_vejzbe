@@ -26,10 +26,4 @@
     # Customise the README.md file format without forking this repository. Read more on this repository's README.md. Markdown supported.
     customReadmeFile: # optional, default is ## ${header}
 
-${subhead}
 
-
-${repoTable}
-
-
-${footer}
